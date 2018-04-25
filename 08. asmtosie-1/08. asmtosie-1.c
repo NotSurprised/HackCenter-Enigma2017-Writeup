@@ -1,0 +1,1 @@
+int testb(int n){ return n * -1162764655; }
